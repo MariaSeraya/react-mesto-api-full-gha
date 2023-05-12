@@ -1,15 +1,42 @@
-[![Tests](https://github.com/yandex-praktikum/react-mesto-api-full-gha/actions/workflows/tests.yml/badge.svg)](https://github.com/yandex-praktikum/react-mesto-api-full-gha/actions/workflows/tests.yml)
-# react-mesto-api-full
-Репозиторий для приложения проекта `Mesto`, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположите в директории `backend/`, а фронтенд - в `frontend/`. 
-  
-Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
+[![Tests](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
 
-Адрес репозитория: https://github.com/...
+# Mesto backend + frontend
+### The seventh project completed on the course of web-developers from Yandex Practicum
+###### Mesto is translated as a place.
 
-## Ссылки на проект
+**About the project:**
+* an educational project;
+* backend + frontend of a landing page for sharing pics with the ability to interact with the inrerface (profile name, description and avatar change, adding new cards, delete cards, like cards, form validation). With ability to register and authorize.
 
-IP-адрес x.x.x.x
+**Used in project:**
+* Express;
+* MongoDB;
+* Node.JS;
+* Postman;
+* JS.
 
+Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/react-mesto-api-full-gha.git)
+IP x.x.x.x
 Frontend https://...
+Backend https://...
 
+------
+
+# Mesto бэкэнд + фронтенд
+###  Седьмой проект, выполненный на курсе веб-разаботчиков от Яндекс Практикум
+
+**О проекте:**
+* учебный проект;
+* бэкэнд и фронтенд одностраничного сайта для обмена фотографиями с возможностью взаимодействия с интерфейсом (изменение имени профиля, описания, аватара, добавление карточек, удаление карточек, лайки карточек, валидация форм). С функционалом регистрации и авторизации.
+
+**В работе использовались:**
+* Express;
+* MongoDB;
+* Node.JS;
+* Postman;
+* JS.
+
+Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/react-mesto-api-full-gha.git)
+IP x.x.x.x
+Frontend https://...
 Backend https://...
