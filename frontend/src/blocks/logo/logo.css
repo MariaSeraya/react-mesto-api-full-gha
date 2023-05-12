@@ -1,0 +1,6 @@
+.logo {
+  background-image: url(../../images/header-logo.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: block;
+}

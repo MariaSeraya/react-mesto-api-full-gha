@@ -1,0 +1,32 @@
+.footer {
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  padding: 67px 0 60px;
+  box-sizing: border-box;
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .footer_position_center {
+    max-width: 780px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer_position_center {
+    max-width: 580px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .footer {
+    padding-top: 48px;
+    padding-bottom: 36px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer_position_center {
+    max-width: 282px;
+  }
+}

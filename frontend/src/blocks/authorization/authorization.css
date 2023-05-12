@@ -1,0 +1,10 @@
+.authorization {
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  width: 358px;
+  min-height: 60vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 0 0;
+}

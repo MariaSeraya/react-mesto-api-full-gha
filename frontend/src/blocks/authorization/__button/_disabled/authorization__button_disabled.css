@@ -1,0 +1,6 @@
+.authorization__button_disabled {
+  background-color: rgba(255, 255, 255, .5);
+  color:  rgba(0, 0, 0, .5);
+  pointer-events: none;
+  user-select: none;
+}

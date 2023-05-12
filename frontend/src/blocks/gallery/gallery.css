@@ -1,0 +1,18 @@
+.gallery {
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  max-width: 880px;
+  min-height: 60vh;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .gallery {
+    max-width: 780px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .gallery {
+    max-width: 282px;
+  }
+}

@@ -1,0 +1,10 @@
+.card__button {
+  width: 22px;
+  height: 19px;
+  background-image: url(../../../images/gallery-heart-disabled.svg);
+  background-size: contain;
+  background-color: rgba(255, 255, 255, 0);
+  background-repeat: no-repeat;
+  padding: 0;
+  border: 0;
+}

@@ -1,0 +1,7 @@
+.card {
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  margin: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
