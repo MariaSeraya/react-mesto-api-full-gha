@@ -14,7 +14,15 @@
 * Node.JS;
 * Postman;
 
-* HTML.
+* adaptive layout;
+* BEM methodology;
+* flexbox;
+* grid;
+* transformation;
+* Popup;
+* Api;
+* webpack;
+* REACT.
 
 Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/react-mesto-api-full-gha.git)
 IP x.x.x.x
@@ -35,7 +43,16 @@ Backend https://...
 * MongoDB;
 * Node.JS;
 * Postman;
-* JS.
+
+* адаптивная верстка;
+* методология БЭМ;
+* flexbox;
+* grid;
+* трансформация;
+* Popup;
+* Api;
+* webpack;
+* REACT.
 
 Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/react-mesto-api-full-gha.git)
 IP x.x.x.x

@@ -1,7 +1,7 @@
 [![Tests](../../actions/workflows/tests-13-sprint.yml/badge.svg)](../../actions/workflows/tests-13-sprint.yml) [![Tests](../../actions/workflows/tests-14-sprint.yml/badge.svg)](../../actions/workflows/tests-14-sprint.yml)
 
 # Mesto backend
-### The sixth project completed on the course of web-developers from Yandex Practicum
+### The fouth project completed on the course of web-developers from Yandex Practicum
 ###### Mesto is translated as a place.
 
 **About the project:**
@@ -14,22 +14,12 @@
 * Node.JS;
 * Postman.
 
-* adaptive layout;
-* BEM methodology;
-* flexbox;
-* grid;
-* transformation;
-* Popup;
-* Api;
-* webpack;
-* REACT.
-
 Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/express-mesto-gha.git)
 
 ------
 
 # Mesto бэкэнд
-### Шестой проект, выполненный на курсе веб-разаботчиков от Яндекс Практикум
+### Четвертый, выполненный на курсе веб-разаботчиков от Яндекс Практикум
 
 **О проекте:**
 * учебный проект;
@@ -40,16 +30,6 @@
 * MongoDB;
 * Node.JS;
 * Postman.
-
-* адаптивная верстка;
-* методология БЭМ;
-* flexbox;
-* grid;
-* трансформация;
-* Popup;
-* Api;
-* webpack;
-* REACT.
 
 Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/express-mesto-gha.git)
 

@@ -17,16 +17,13 @@
 * webpack;
 * REACT.
 
-**Inprovement plans:**
-* make an English version of the project.
-
 GitHub link: [Mesto](https://github.com/MariaSeraya/react-mesto-auth.git),
 GitHub Pages: [Mesto](https://mariaseraya.github.io/react-mesto-auth/)
 
 ------
 
 # Место фронтенд
-### Пятый проект, выполненный на курсе веб-разаботчиков от Яндекс.Практикум
+### Четвертый проект, выполненный на курсе веб-разаботчиков от Яндекс.Практикум
 
 **О проекте:**
 * учебный проект (сделан по брифу в Figma);
@@ -42,9 +39,6 @@ GitHub Pages: [Mesto](https://mariaseraya.github.io/react-mesto-auth/)
 * Api;
 * webpack;
 * REACT.
-
-**Планы на доработку:**
-* написать англоязычную версию проекта.
 
 Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/react-mesto-auth.git),
 
