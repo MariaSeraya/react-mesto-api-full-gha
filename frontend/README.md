@@ -1,5 +1,5 @@
-# Mesto REACT (authorization)
-### The fifth project completed on the course of web-developers from Yandex Practicum
+# Mesto frontend
+### The fouth project completed on the course of web-developers from Yandex Practicum
 ###### Mesto is translated as a place.
 
 **About the project:**
@@ -25,7 +25,7 @@ GitHub Pages: [Mesto](https://mariaseraya.github.io/react-mesto-auth/)
 
 ------
 
-# Место REACT (авторизация)
+# Место фронтенд
 ### Пятый проект, выполненный на курсе веб-разаботчиков от Яндекс.Практикум
 
 **О проекте:**

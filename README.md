@@ -1,7 +1,7 @@
 [![Tests](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
 
 # Mesto backend + frontend
-### The seventh project completed on the course of web-developers from Yandex Practicum
+### The fourth project completed on the course of web-developers from Yandex Practicum
 ###### Mesto is translated as a place.
 
 **About the project:**
@@ -13,7 +13,8 @@
 * MongoDB;
 * Node.JS;
 * Postman;
-* JS.
+
+* HTML.
 
 Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/react-mesto-api-full-gha.git)
 IP x.x.x.x

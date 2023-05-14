@@ -14,6 +14,16 @@
 * Node.JS;
 * Postman.
 
+* adaptive layout;
+* BEM methodology;
+* flexbox;
+* grid;
+* transformation;
+* Popup;
+* Api;
+* webpack;
+* REACT.
+
 Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/express-mesto-gha.git)
 
 ------
@@ -30,6 +40,16 @@
 * MongoDB;
 * Node.JS;
 * Postman.
+
+* адаптивная верстка;
+* методология БЭМ;
+* flexbox;
+* grid;
+* трансформация;
+* Popup;
+* Api;
+* webpack;
+* REACT.
 
 Ссылка на GitHub: [Mesto](https://github.com/MariaSeraya/express-mesto-gha.git)
 
