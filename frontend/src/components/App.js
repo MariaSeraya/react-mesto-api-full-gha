@@ -33,7 +33,6 @@ function App() {
 
   const api = new Api({
     baseUrl: 'https://api.mesto.seraya.nomoredomains.monster',
-    // baseUrl: 'http://localhost:3001',
     headers: {
       'Authorization': `Bearer ${localStorage.getItem('jwt')}`,
       'Content-Type': 'application/json',
