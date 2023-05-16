@@ -32,7 +32,7 @@ function App() {
   const [isRegister, setIsRegister] = useState(false)
 
   const api = new Api({
-    baseUrl: 'https://api.mesto.lajolla.nomoredomains.monster',
+    baseUrl: 'https://api.mesto.seraya.nomoredomains.monster',
     // baseUrl: 'http://localhost:3001',
     headers: {
       'Authorization': `Bearer ${localStorage.getItem('jwt')}`,

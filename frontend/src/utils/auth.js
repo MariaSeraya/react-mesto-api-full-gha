@@ -1,5 +1,4 @@
-const BASE_URL = 'https://api.mesto.lajolla.nomoredomains.monster';
-// const BASE_URL = 'http://localhost:3001';
+const BASE_URL = 'https://api.mesto.seraya.nomoredomains.monster';
 
 function handleResponse(res) {
   if (res.ok) {
