@@ -1,11 +1,12 @@
 const allowedCors = [
   'https://mesto.seraya.nomoredomains.monster',
   'http://mesto.seraya.nomoredomains.monster',
-  'https://api.mesto.seraya.nomoredomains.monster',
-  'http://api.mesto.seraya.nomoredomains.monster',
+  'https://mesto.seraya.f.nomoredomains.monster',
+  'http://mesto.seraya.f.nomoredomains.monster',
   'localhost:3000',
   'localhost:3001',
   'http://localhost:3000',
+
   'http://localhost:3001',
 ];
 

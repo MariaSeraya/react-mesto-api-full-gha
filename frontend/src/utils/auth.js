@@ -1,4 +1,4 @@
-const BASE_URL = 'https://api.mesto.seraya.nomoredomains.monster';
+const BASE_URL = 'https://mesto.seraya.f.nomoredomains.monster';
 
 function handleResponse(res) {
   if (res.ok) {
