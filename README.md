@@ -14,4 +14,4 @@ IP 158.160.18.179
 
 Frontend http://mesto.seraya.nomoredomains.monster/
 
-Backend http://mesto.f.seraya.nomoredomains.monster/
+Backend https://mesto.seraya.f.nomoredomains.monster
