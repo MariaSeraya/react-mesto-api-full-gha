@@ -90,6 +90,8 @@ function App() {
         }
       })
       .catch((error) => {
+        setIsLoggedIn(false);
+        setIsInfoTooltipPopupOpen(true);
         console.log(error);
       })
   }
